@@ -1,0 +1,9 @@
+Package: sante
+Type: Package
+Title: health care 
+Version: 0.1.0
+Author: Guessmi Mohamed 
+Maintainer: Guessmi Mohamed <daghboujimohamed4@gmail.com>
+Description: This package allows you to see two Shiny applications the first show some statistics and prediction about health care cost and the second represent a data visualisation about medicine and pharmacy in Tunisia
+Encoding: UTF-8
+LazyData: true
